@@ -5,9 +5,11 @@
 
 - 🔭 I'm pursuing degree and studying **Software Engineering** at **Universitas Pendidikan Indonesia**
 
-- 🌱 I’m currently learning **Front-end Development**
+- 🌱 I’m currently learning **Front-end Development** and **UI/UX Design**
 
 - 📫 How to reach me **paujieee@gmail.com**
+
+- ⚡ I Love **Design!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
