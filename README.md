@@ -1,8 +1,11 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/917584302034788404/981345866151505940/unknown.png)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Fauzi Ramadhani ⚡</h1>
 <h3 align="center">A passionate Designer from Indonesia.</h3>
 <p align="center">I'm pursuing my Btech degree and studying <b>Software Engineering</b> at <b>Universitas Pendidikan Indonesia</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paujie&label=Profile%20views&color=0e75b6&style=flat" alt="paujie" /> </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paujie&label=Profile%20views&color=0e75b6&style=flat" alt="paujie" /> </p>
 
 - 🌱 I’m currently learning **Front-end Development** and **UI/UX Design**
 
