@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end Development** and **UI/UX Design**
 
-- 📫 How to reach me **paujieee@gmail.com**
+- 📫 Reach me **paujieee@gmail.com**
 
 - ❤️‍🔥 I Love **Design**
 
