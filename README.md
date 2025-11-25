@@ -6,5 +6,6 @@
 
 $welcome$ $to$ $jie's$ $playground.$
 
-**Product Designer** based in Indonesia. I enjoy creating simple digital experiences and helping products feel clearer, easier, and nicer to use.
+**Product Designer** based in Indonesia [^1] . I enjoy creating simple digital experiences and helping products feel clearer, easier, and nicer to use. Lately, I’ve also been getting into development with React. 
 
+[^1]: **jie** a.k.a Fauzi Ramadhani is a Product Designer with 2 years of experience creating clean, user-focused interfaces and improving digital experiences through thoughtful design. You can check jie's design portfolio at his web! or exploring his code-playground here.
